@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hehe10022.github.io</id>
+    <id>https://blog.fxtstudio2020.top</id>
     <title>Hehe的博客</title>
-    <updated>2021-02-04T02:38:51.215Z</updated>
+    <updated>2021-02-04T02:39:24.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://hehe10022.github.io"/>
-    <link rel="self" href="https://hehe10022.github.io/atom.xml"/>
+    <link rel="alternate" href="https://blog.fxtstudio2020.top"/>
+    <link rel="self" href="https://blog.fxtstudio2020.top/atom.xml"/>
     <subtitle>由fxt提供支持，我会在这里分型一些有意思的东西</subtitle>
-    <logo>https://hehe10022.github.io/images/avatar.png</logo>
-    <icon>https://hehe10022.github.io/favicon.ico</icon>
+    <logo>https://blog.fxtstudio2020.top/images/avatar.png</logo>
+    <icon>https://blog.fxtstudio2020.top/favicon.ico</icon>
     <rights>All rights reserved 2021, Hehe的博客</rights>
     <entry>
         <title type="html"><![CDATA[红米note8 Miui12 开发版下载]]></title>
-        <id>https://hehe10022.github.io/post/hong-mi-note8-miui12-kai-fa-ban-xia-zai/</id>
-        <link href="https://hehe10022.github.io/post/hong-mi-note8-miui12-kai-fa-ban-xia-zai/">
+        <id>https://blog.fxtstudio2020.top/post/hong-mi-note8-miui12-kai-fa-ban-xia-zai/</id>
+        <link href="https://blog.fxtstudio2020.top/post/hong-mi-note8-miui12-kai-fa-ban-xia-zai/">
         </link>
         <updated>2021-02-04T02:05:38.000Z</updated>
         <content type="html"><![CDATA[<p>Miui的小米社区里没有让你下载历史版本开发板的选项，你一旦不小心更新了，只能错过了。所以在我的寻找下，我发现了这些资源，红米note8的开发版的包，即使你没有申请开发版，只要你的手机解锁了bootloader，就可以刷入了。</p>
